@@ -1,0 +1,8 @@
+imgs/
+.idea
+.idea/
+*.pyc  
+__pycache__/ 
+logs/
+temp/*/
+uploads/
